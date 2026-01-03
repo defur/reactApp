@@ -8,18 +8,17 @@ A simple React application for managing a list of users. You can add new users, 
 
 ## Features
 
-- Display a list of users with their details (name, bio, age, happiness status)
+- Fetch and display a list of users from an external API (name, last name, email, age, happiness status, avatars)
 - Add new users via a form
 - Edit existing users (toggle edit form)
 - Delete users from the list
-- Responsive design with custom styling
 
 ## Technologies Used
 
 - React 19
 - React Icons
 - CSS for styling
-- Axios (installed but not used in current version)
+- Axios (for API calls)
 
 ## Getting Started
 
@@ -71,8 +70,4 @@ npm run deploy
 
 ## Contributing
 
-Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
+Feel free to fork the repository and submit pull requests!
